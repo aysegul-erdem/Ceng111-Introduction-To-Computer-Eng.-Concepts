@@ -19,7 +19,7 @@ The program checks if the schedule violates any rules related to the availabilit
 ## Files
 
 ```text
-THE2.py
+solution.py
 ```
 
 This file contains the implementation of the function that validates the schedule and computes the total cost when the schedule is valid.
