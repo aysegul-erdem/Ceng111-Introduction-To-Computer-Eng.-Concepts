@@ -1,4 +1,4 @@
-# Take Home Exam 2
+# Babysitting Schedule Validator
 
 This folder contains my solution for **Take Home Exam 2** of the course
 **CENG111 – Introduction to Computer Engineering Concepts** at **Middle East Technical University (METU)**.
